@@ -1,0 +1,11 @@
+﻿{ "sections": [
+ {"id":"global","title":"🌍 Global News","brief":"Biggest world news: politics, wars (Ukraine, Middle East), USA, major crises. Sources: Reuters, AP, BBC, Guardian, NYT, Al Jazeera, FT."},
+ {"id":"swiss","title":"🇨🇭 Schweiz","brief":"Biggest Swiss national news (politics, economy, society). Sources: NZZ, SRF, Tages-Anzeiger, swissinfo, Blick, 20min, watson."},
+ {"id":"zurich","title":"🏙️ Zürich","brief":"Biggest news from city and canton of Zurich. Sources: NZZ, Tages-Anzeiger, SRF Regional, Zueriost, Limmattaler, 20min."},
+ {"id":"regensdorf","title":"🏡 Regensdorf & Watt","brief":"News on Regensdorf (incl. Watt, Adlikon, Affoltern-region neighbours): Gemeinde regensdorf.ch, Limmattaler/Furttaler, Zürcher Unterländer, Tages-Anzeiger. If thin, include relevant Furttal news."},
+ {"id":"events","title":"📅 Events Regensdorf & Watt (next 3 months)","brief":"Concrete upcoming events in Regensdorf and Watt in the next 3 months from today: check regensdorf.ch, Furttal event calendars, local clubs, Kulturhaus/Zentrum Regensdorf. Title = event name; summary must include date, time and place. Pick the 5 soonest/most notable."},
+ {"id":"poker","title":"♠️ Poker","brief":"Biggest poker news: WSOP, EPT, PokerNews, PokerStars, GGPoker, Card Player, PokerOrg, notable results, rule/industry news."},
+ {"id":"ai","title":"🤖 AI & OpenClaw","brief":"Biggest AI news (OpenAI, Anthropic, Google, Meta, regulation, research) plus anything on OpenClaw (github.com/openclaw, docs.openclaw.ai, releases). Sources: TechCrunch, The Verge, Ars Technica, Reuters, Wired."},
+ {"id":"movies","title":"🎬 Movies & Rumors","brief":"Biggest film news: new releases, trailers, box office, casting, credible rumors. Sources: Variety, Deadline, Hollywood Reporter, IGN, Collider, Empire."},
+ {"id":"axpo","title":"⚡ Axpo","brief":"News on Axpo Group (Swiss energy company): axpo.com media releases, NZZ, Reuters, Bloomberg, finews, Tages-Anzeiger, energy market news involving Axpo."}
+]}
