@@ -80,3 +80,6 @@ console.log("written");
 
 import { execSync } from 'node:child_process';
 try { const o={cwd:here,stdio:'inherit'}; execSync('git add -A',o); execSync('git -c user.name=chrisclaw4321 -c user.email=chrisclaw4321@users.noreply.github.com commit -m \"news update\"',o); execSync('git push',o); } catch(e){ console.log('git: nothing to push or failed', e.message); }
+
+import { readFileSync } from 'node:fs';
+try { const tok = readFileSync(path.join(process.env.USERPROFILE, '.openclaw', 'secrets', 'cloudflare-api-token'), 'utf8').trim(); execSync('npx wrangler pages deploy public --project-name daily-news --branch main', { cwd: here, stdio: 'inherit', shell: true, env: { ...process.env, CLOUDFLARE_API_TOKEN: tok } }); } catch (e) { console.log('cloudflare deploy failed', e.message); process.exitCode = 1; }
