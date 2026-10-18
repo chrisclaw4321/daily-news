@@ -39,7 +39,7 @@ li a{font-weight:600;text-decoration:none;color:inherit}li a:hover{text-decorati
 li a::before{content:counter(n) ". ";color:var(--acc)}
 p{margin:.3rem 0;font-size:.93rem;opacity:.9}
 small{display:block;color:var(--mut);font-size:.78rem}
-@media(max-width:699px){html{font-size:32px}body{font-size:32px}header{padding:.4rem .6rem}main{padding:.5rem;gap:.5rem}section{padding:.6rem;scroll-margin-top:230px}nav{gap:1rem}}
+@media(max-width:699px){html{font-size:32px}body{font-size:32px}header{padding:4px 8px}header h1{font-size:11.5px}header small{font-size:7.7px}nav{padding-top:2px}nav a{font-size:12.5px}main{padding:.5rem;gap:.5rem}section{padding:.6rem;scroll-margin-top:36px}nav{gap:6px}}
 </style></head><body>
 <header><h1>Daily News <small>Aktualisiert: ${esc(upd)}</small></h1><nav>${nav}</nav></header>
 <main>${html}</main></body></html>`;
