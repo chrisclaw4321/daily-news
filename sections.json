@@ -1,4 +1,4 @@
-﻿{ "sections": [
+{ "sections": [
  {"id":"global","title":"🌍 Global News","brief":"Biggest world news: politics, wars (Ukraine, Middle East), USA, major crises. Sources: Reuters, AP, BBC, Guardian, NYT, Al Jazeera, FT."},
  {"id":"swiss","title":"🇨🇭 Schweiz","brief":"Biggest Swiss national news (politics, economy, society). Sources: NZZ, SRF, Tages-Anzeiger, swissinfo, Blick, 20min, watson."},
  {"id":"zurich","title":"🏙️ Zürich","brief":"Biggest news from city and canton of Zurich. Sources: NZZ, Tages-Anzeiger, SRF Regional, Zueriost, Limmattaler, 20min."},
