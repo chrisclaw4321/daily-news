@@ -1,4 +1,4 @@
-﻿// Renders data/news.json (written by the agent) to public/index.html, then publishes to GitHub + Cloudflare Pages.
+// Renders data/news.json (written by the agent) to public/index.html, then publishes to GitHub + Cloudflare Pages.
 import { writeFile, readFile } from "node:fs/promises";
 import { execSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
@@ -6,8 +6,8 @@ import path from "node:path";
 const here = path.dirname(fileURLToPath(import.meta.url));
 const esc = (s = "") => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const safeUrl = (u) => (/^https?:\/\//i.test(u) ? u : "#");
-const defs = JSON.parse(await readFile(path.join(here, "sections.json"), "utf8")).sections;
-const data = JSON.parse(await readFile(path.join(here, "data", "news.json"), "utf8"));
+const defs = JSON.parse((await readFile(path.join(here, "sections.json"), "utf8")).replace(/^\uFEFF/, "")).sections;
+const data = JSON.parse((await readFile(path.join(here, "data", "news.json"), "utf8")).replace(/^\uFEFF/, ""));
 const tz = "Europe/Zurich";
 let html = "";
 for (const s of defs) {
