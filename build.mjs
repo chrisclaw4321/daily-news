@@ -77,3 +77,6 @@ small{display:block;color:var(--mut);font-size:.8rem}
 
 await writeFile(path.join(here, "public", "index.html"), page);
 console.log("written");
+
+import { execSync } from 'node:child_process';
+try { const o={cwd:here,stdio:'inherit'}; execSync('git add -A',o); execSync('git -c user.name=chrisclaw4321 -c user.email=chrisclaw4321@users.noreply.github.com commit -m \"news update\"',o); execSync('git push',o); } catch(e){ console.log('git: nothing to push or failed', e.message); }
