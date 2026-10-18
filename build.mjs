@@ -1,4 +1,4 @@
-// Daily News builder: Bing News RSS per section -> public/index.html -> git push -> Cloudflare Pages deploy
+﻿// Daily News builder: Bing News RSS per section -> public/index.html -> git push -> Cloudflare Pages deploy
 import { writeFile, readFile } from "node:fs/promises";
 import { execSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
@@ -28,7 +28,8 @@ const decode = (s) =>
    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n))
    .replace(/&amp;/g, "&");
 const tag = (x, t) => { const m = x.match(new RegExp(`<${t}[^>]*>(.*?)</${t}>`, "s")); return m ? decode(m[1]).trim() : ""; };
-const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+const fix = (s) => s.replace(/\uFFFD\?T/g, "\u2019").replace(/\uFFFD\?~/g, "\u2018").replace(/\uFFFD\?[A-Za-z]/g, "\u2019").replace(/\uFFFD/g, "");
+const esc = (s) => fix(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const realUrl = (l) => { try { return new URL(l).searchParams.get("url") || l; } catch { return l; } };
 
 async function fetchFeed(url) {
@@ -102,3 +103,4 @@ try {
   const tok = (await readFile(path.join(process.env.USERPROFILE, ".openclaw", "secrets", "cloudflare-api-token"), "utf8")).trim();
   sh("npx wrangler pages deploy public --project-name daily-news --branch main", { CLOUDFLARE_API_TOKEN: tok });
 } catch (e) { console.log("cloudflare deploy failed"); process.exitCode = 1; }
+
