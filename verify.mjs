@@ -5,7 +5,7 @@ import path from "node:path";
 const here = path.dirname(fileURLToPath(import.meta.url));
 const URL_ = "https://daily-news-556.pages.dev/";
 const MIN_STORIES = 15;      // total stories across all sections (a normal run has ~30-45)
-const MAX_AGE_MIN = 20;      // news.json "updated" must be within this many minutes of now
+const MAX_AGE_MIN = Number(process.env.VERIFY_MAX_AGE_MIN || 20);      // news.json "updated" must be within this many minutes of now
 const fail = (m) => { console.log("VERIFY FAILED: " + m); process.exit(1); };
 
 const data = JSON.parse((await readFile(path.join(here, "data", "news.json"), "utf8")).replace(/^\uFEFF/, ""));
