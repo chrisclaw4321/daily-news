@@ -1,91 +1,56 @@
 {
- "updated": "2026-10-22T04:07:00.545Z",
+ "updated": "2026-10-22T10:03:11.411Z",
  "sections": {
   "global": [
    {
-    "title": "Russia agrees to resume three-way Ukraine peace talks as missiles hit Kyiv",
-    "summary": "After US envoy Steve Witkoff met Vladimir Putin in St Petersburg, Moscow said it is \"ready in principle\" to restart trilateral talks with the US and Ukraine, and Donald Trump said the world is \"the closest we've been\" to ending the war. Hours later a Russian missile attack on Kyiv hit several houses and injured six people, according to Mayor Vitaliy Klitschko. Trilateral talks had been paused since February.",
+    "title": "Missiles hit Kyiv hours after Russia says it is ready to resume peace talks",
+    "summary": "US envoy Steve Witkoff met Russian President Vladimir Putin in St Petersburg on 21 October, a day after meeting Ukraine's leader Zelensky, and Moscow said it is 'ready in principle' to resume three-way talks that were paused in February. Hours later a Russian missile attack hit houses in Kyiv and injured six people, according to Mayor Vitaliy Klitschko. President Trump said the world is 'maybe now the closest we've been' to ending the war.",
     "url": "https://www.bbc.com/news/articles/cq3djn5nxx12o",
     "source": "BBC News",
     "date": "2026-10-21"
    },
    {
-    "title": "Iran says 'not a single gram' of enriched uranium will leave the country",
-    "summary": "Amid a burst of diplomacy, including a visit to Tehran by Pakistan's army chief Asim Munir, Iran's security council secretary Mohsen Rezaei rejected removing any enriched uranium. Nearly eight months into the US-Israel war on Iran, Tehran says it will not end the war or reopen the Strait of Hormuz until Washington accepts its conditions, while fears of renewed fighting grow.",
-    "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings",
-    "source": "Al Jazeera",
-    "date": "2026-10-21"
-   },
-   {
-    "title": "Report: Musk personally ordered the slowdown of Ukraine's Starshield access",
-    "summary": "CBS News, citing people familiar with the matter, reports that Elon Musk decided to restrict Ukraine's use of SpaceX's military Starshield network, which is used for drone operations and protecting sites. The service was slowed significantly last week; Musk had publicly said limits are set by the US military and ultimately the president, and the Trump administration says it had no prior knowledge.",
-    "url": "https://www.cbsnews.com/news/elon-musk-ukraine-spacex-starshield-trump-administration/",
-    "source": "CBS News",
-    "date": "2026-10-21"
-   },
-   {
-    "title": "Indian court frees two leaders of the 'Cockroach' youth movement",
-    "summary": "A special magistrate in Delhi ordered the release of Saurav Das and Ashutosh Ranka, leaders of the Cockroach Janta Party, after a week in Tihar jail following a police crackdown on a march against alleged electoral-roll manipulation. The youth-led movement began as online satire and has grown into a political challenge to Narendra Modi's government; the Supreme Court has also set up a panel to probe alleged police violence.",
-    "url": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown",
-    "source": "The Guardian",
-    "date": "2026-10-21"
-   },
-   {
-    "title": "Meta ordered to pay New Mexico $25 billion over misleading consumers",
-    "summary": "A judge imposed a $25 billion penalty on Meta after a jury found it misled consumers, in a case rooted in the Cambridge Analytica scandal in which data of more than 350,000 New Mexicans was sold or brokered without their knowledge. Jurors found over 43 million violations of state consumer-protection law; Meta says it will appeal and the state's attorney general called the ruling a warning to Silicon Valley.",
-    "url": "https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21",
-    "source": "Fox News",
+    "title": "Report: Israel planned to bomb Iran in October but Trump held it back until after the midterms",
+    "summary": "The Financial Times, as relayed by NDTV, reports that Israel had a multi-day bombing plan against Iran ready for the weekend of 10 October, including civilian infrastructure such as power plants, but US President Trump stopped it to prioritise the 3 November midterm elections. Trump has nonetheless threatened that the US and Israel will 'soon finish the job' unless Iran changes course, while the Strait of Hormuz remains partially blocked since February.",
+    "url": "https://www.ndtv.com/world-news/israel-had-planned-to-bomb-iran-in-october-stopped-because-of-trump-report-12216972",
+    "source": "NDTV (citing Financial Times)",
     "date": "2026-10-21"
    }
   ],
   "swiss": [
    {
-    "title": "Rémy Wyssmann kandidiert für die Nachfolge von Bundesrat Guy Parmelin",
-    "summary": "Der Solothurner SVP-Nationalrat Rémy Wyssmann hat an einer Medienkonferenz seine Kandidatur für den frei werdenden SVP-Bundesratssitz angekündigt. Bisher hatte nur die Genfer Nationalrätin Céline Amaudruz offiziell Interesse bekundet; SRF-Korrespondent Dominik Meier sieht für Wyssmann nur geringe Wahlchancen.",
+    "title": "Rémy Wyssmann will SVP-Bundesrat werden",
+    "summary": "Der Solothurner SVP-Nationalrat Rémy Wyssmann (59) hat an einer Medienkonferenz seine Kandidatur für die Nachfolge des abtretenden Bundesrats Guy Parmelin angekündigt. Bisher hatte nur die Genfer Nationalrätin Céline Amaudruz offiziell Interesse bekundet; SRF-Korrespondent Dominik Meier sieht für Wyssmann nur geringe Wahlchancen. Die SVP-Findungskommission nimmt Vorschläge bis Freitag entgegen.",
     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-remy-wyssmann-will-svp-bundesrat-werden",
     "source": "SRF",
     "date": "2026-10-21"
    },
    {
     "title": "Franz Grüter verzichtet auf Bundesratskandidatur",
-    "summary": "Der Luzerner SVP-Nationalrat Franz Grüter (63) will nicht für die Nachfolge von Guy Parmelin antreten. Er habe den Entscheid mit seiner Familie getroffen, da ein Bundesratsamt über Jahre fast das ganze Privatleben beanspruche. Die SVP-Suche nach Kandidaten verläuft damit weiter harzig.",
+    "summary": "Der Luzerner SVP-Nationalrat Franz Grüter (63) will nicht für die Nachfolge von Bundesrat Guy Parmelin kandidieren, obwohl ihn viele aus Bevölkerung, Wirtschaft und Partei dazu ermuntert hatten. Er begründet den Entscheid mit seiner Familie, da das Amt kaum noch Privatleben lasse. Damit fällt ein Kandidat mit guten Wahlchancen für die SVP weg.",
     "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-franz-grueter-verzichtet-auf-bundesratskandidatur",
     "source": "SRF",
     "date": "2026-10-22"
    },
    {
-    "title": "Hackergruppe Akira erbeutet Daten von Bundesangestellten, Alt-Bundesräten und Geheimagenten",
-    "summary": "Beim Cyberangriff auf einen Softwarelieferanten der Bundespensionskasse Publica wurden laut «Tages-Anzeiger» rund 100 Gigabyte sicherheitskritischer Daten gestohlen, dahinter soll die Ransomware-Gruppe Akira stecken. Der Nachrichtendienst verzichtet vorerst auf Auslandsoperationen, weil Agenten mit Tarnidentität betroffen sein könnten, und der Bund setzt eine Taskforce ein.",
-    "url": "https://www.20min.ch/story/cyberangriff-hackergruppe-saugt-daten-von-bundesraeten-und-elitesoldaten-ab-103652500",
-    "source": "20 Minuten",
-    "date": "2026-10-20"
+    "title": "SNB sah im September keinen Bedarf für erhöhte Interventionsbereitschaft am Devisenmarkt",
+    "summary": "Laut der am Donnerstag veröffentlichten Zusammenfassung der geldpolitischen Diskussion zum Zinsentscheid vom 24. September hielt das SNB-Direktorium eine erhöhte Bereitschaft zu Devisenmarktinterventionen nicht mehr für nötig. Im Juni hatte die Nationalbank diese Bereitschaft noch signalisiert, im September verzichtete sie auf die Formulierung.",
+    "url": "https://www.nau.ch/news/wirtschaft/snb-sieht-keinen-bedarf-fur-erhohte-interventionsbereitschaft-67192046",
+    "source": "Nau.ch",
+    "date": "2026-10-22"
    }
   ],
   "zurich": [
    {
-    "title": "Kanton Zürich soll ein internationales Handelsgericht erhalten",
-    "summary": "Der Zürcher Kantonsrat hat sich am Montag mit 122 zu 45 Stimmen gegen den Nichteintretensantrag der SVP für ein internationales Handelsgericht ausgesprochen, an dem Verfahren auf Englisch geführt werden. Das Gericht wird am Obergericht angesiedelt; die Schlussabstimmung gilt als Formsache.",
-    "url": "https://www.limmattalerzeitung.ch/limmattal/zuerich/kanton-zuerich-soll-internationales-handelsgericht-erhalten-ld.4252944",
-    "source": "Limmattaler Zeitung",
+    "title": "Hardplatz-Krawalle: Stadtpolizei sucht Videos, Schaden in Hunderttausenderhöhe",
+    "summary": "Nach den Ausschreitungen in der Nacht vom 10. auf den 11. Oktober 2026 beim Zürcher Hardplatz, bei denen eine illegale Party aufgelöst und die Polizei mit Pyro, Steinen und Flaschen angegriffen wurde, sucht die Stadtpolizei Zürich Foto- und Videoaufnahmen aus der Bevölkerung. Der Sachschaden beträgt mehrere hunderttausend Franken, die Ermittlungen gegen die Täter laufen.",
+    "url": "https://www.polizeinews.ch/2026/10/20/hardplatz-krawalle-polizei-sucht-videos-und-fotos-schaden-geht-in-die-hunderttausende/",
+    "source": "Polizeinews.ch",
     "date": "2026-10-20"
    },
    {
-    "title": "Stadtzürcher SVP distanziert sich von Kantonsrat Christoph Marty",
-    "summary": "Die SVP-Fraktion im Zürcher Gemeinderat hat sich von ihrem Parteikollegen Christoph Marty distanziert. Dieser hatte nach den Ausschreitungen am Hardplatz die Stadtpolizei auf Facebook mit sexistischen und homophoben Äusserungen kritisiert; Sicherheitsvorsteherin Karin Rykart (Grüne) dankte der SVP für die Klarstellung.",
-    "url": "https://www.swissinfo.ch/ger/stadtz%C3%BCrcher-svp-distanziert-sich-von-eigenem-kantonsrat/92253162",
-    "source": "swissinfo (Keystone-SDA)",
-    "date": "2026-10-21"
-   },
-   {
-    "title": "VBZ-Fahrplanwechsel am 13. Dezember: Tramlinien 50 und 51 verschwinden",
-    "summary": "Mit dem Abschluss der Bauarbeiten am Bahnhofquai/HB stellen die VBZ am 13. Dezember 2026 die Baulinien 50 und 51 ein, und die Linien 4, 11, 13, 14 und 17 fahren wieder über die Haltestelle. Das Tramnetz Süd wird komplett eingeführt: Die Linie 5 fährt zur Hauptverkehrszeit bis Rehalp und Albisgütli, die Linie 17 bis Bahnhof Wiedikon.",
-    "url": "https://www.bahnonline.ch/92739/vbz-angebotsaenderungen-zum-fahrplanwechsel-2026/",
-    "source": "Bahnonline.ch",
-    "date": "2026-10-20"
-   },
-   {
-    "title": "Kantonspolizei Zürich stellt über 100 Verstösse bei Ablenkungs-Kontrollen fest",
-    "summary": "Bei dreistündigen Verkehrskontrollen am Dienstagnachmittag im ganzen Kanton Zürich, gemeinsam mit Kommunalpolizeien, wurden über 100 Verstösse festgestellt, 94 davon mit Ordnungsbusse. In 50 Fällen nutzten Lenker während der Fahrt ihr Mobiltelefon.",
+    "title": "Kantonspolizei Zürich: Über 100 Verstösse bei Kontrollen gegen Ablenkung",
+    "summary": "Bei einer rund dreistündigen Schwerpunktkontrolle am Dienstagnachmittag im ganzen Kanton Zürich stellte die Kantonspolizei zusammen mit Kommunalpolizeien über 100 Verstösse gegen das Strassenverkehrsgesetz fest. In 50 Fällen nutzten Lenkende während der Fahrt ihr Mobiltelefon; 94 Fälle wurden mit Ordnungsbusse geahndet.",
     "url": "https://www.nau.ch/ort/zurich/kanton-zurich-uber-100-verstosse-bei-kontrollen-gegen-ablenkung-67191395",
     "source": "Nau.ch",
     "date": "2026-10-21"
@@ -93,147 +58,112 @@
   ],
   "regensdorf": [
    {
-    "title": "Neue Buslinie 430 verbindet Limmat- und Furttal via Regensdorf",
-    "summary": "Mit dem Fahrplanwechsel am 13. Dezember 2026 führen die VBZ und die Verkehrsbetriebe Glattal gemeinsam die neue Buslinie 430 ein. Sie verbindet Dietikon über Weiningen und Regensdorf mit Rümlang und schafft so erstmals eine direkte Verbindung zwischen Limmat- und Furttal.",
-    "url": "https://www.bahnonline.ch/92739/vbz-angebotsaenderungen-zum-fahrplanwechsel-2026/",
-    "source": "Bahnonline.ch",
-    "date": "2026-10-20"
+    "title": "Robotaxis im Furttal: Selbstfahrender Fahrdienst «iamo» von Würenlos bis Regensdorf",
+    "summary": "Seit dem 28. September sind im Furttal drei Robotaxis für die Bevölkerung unterwegs, täglich von 12 bis 17 Uhr, gebucht über die App «iamo» (4.70 Franken Grundpauschale plus 38 Rappen pro Kilometer). Es gibt rund 100 Haltepunkte von Würenlos über Boppelsen bis Regensdorf; vorerst fährt eine Sicherheitsperson mit.",
+    "url": "https://www.20min.ch/story/robotaxi-im-furttal-ab-montag-koennen-fahrgaeste-selbstfahrende-autos-buchen-103638678",
+    "source": "20 Minuten",
+    "date": "2026-09-25"
    }
   ],
   "events": [
    {
-    "title": "Konzert des Musikvereins Regensdorf",
-    "summary": "Am Sonntag, 25. Oktober 2026 um 17:00 Uhr spielt der MV Regensdorf in der reformierten Kirche Regensdorf (Watterstrasse 23). Im Anschluss gibt es einen Apéro im Kirchgemeindehaus.",
-    "url": "https://www.regensdorf.ch/anlaesseaktuelles/7618978",
-    "source": "Gemeinde Regensdorf",
-    "date": "2026-10-25"
-   },
-   {
-    "title": "Lesung mit Andreas Russenberger: «Zürich City»",
-    "summary": "Am Montag, 26. Oktober 2026 liest und diskutiert Krimiautor Andreas Russenberger in der Bibliothek Regensdorf (Watterstrasse 117) über seinen neuesten Krimi «Zürich City». Apéro um 18:00 Uhr, Beginn 18:30 Uhr, Eintritt frei mit freiwilliger Kollekte, Anmeldung erwünscht.",
-    "url": "https://www.regensdorf.ch/anlaesseaktuelles/7739566",
-    "source": "Gemeinde Regensdorf",
-    "date": "2026-10-26"
-   },
-   {
-    "title": "Zänti KidZ: Halloween-Basteln im Zentrum Regensdorf",
-    "summary": "Am Mittwoch, 28. Oktober 2026 von 13:30 bis 17:00 Uhr basteln Kinder im Zentrum Regensdorf (Promofläche beim Orell Füssli/FUST) fliegende Geister. Das Angebot ist kostenlos, ohne Anmeldung, Kinder müssen von einer erwachsenen Person begleitet werden.",
+    "title": "Zänti KidZ: Halloween-Basteln – fliegende Geister",
+    "summary": "Mittwoch, 28. Oktober 2026, 13:30–17:00 Uhr, Promofläche beim Orell Füssli/FUST im Zentrum Regensdorf. Kostenloser Bastelnachmittag für Kinder (Thema Halloween), ohne Anmeldung, Kinder müssen von einer erwachsenen Person begleitet werden. Weitere Termine: 25. November und 16. Dezember.",
     "url": "https://zentrum-regensdorf.ch/zanti-kidz-2026/",
     "source": "Zentrum Regensdorf",
     "date": "2026-10-28"
-   },
-   {
-    "title": "Öffentliche Vorstellung des Kulturleitbilds Regensdorf 2026–2030",
-    "summary": "Am Dienstag, 3. November 2026 von 18:00 bis 21:00 Uhr wird das Kulturleitbild erstmals öffentlich vorgestellt, mit Diskussion möglicher Massnahmen. Ort: Pavillon/Gemeinschaftsraum Zwhatt-Areal, Neuhardstrasse 11, Regensdorf; Anmeldung online möglich.",
-    "url": "https://www.regensdorf.ch/anlaesseaktuelles/7749406",
-    "source": "Gemeinde Regensdorf",
-    "date": "2026-11-03"
-   },
-   {
-    "title": "Adventsmarkt Regensdorf",
-    "summary": "Vom 27. bis 29. November 2026 findet auf dem Zentrumsplatz Regensdorf (Fliederweg 32) der Adventsmarkt statt. Nähere Infos zu Programm und Zeiten sollen laut Gemeinde noch folgen.",
-    "url": "https://www.regensdorf.ch/anlaesseaktuelles/7463824",
-    "source": "Gemeinde Regensdorf",
-    "date": "2026-11-27"
    }
   ],
   "poker": [
    {
-    "title": "GGPoker bans HUDs and third-party tools after superuser scandal",
-    "summary": "GGPoker has banned heads-up displays and other third-party software following a security incident in which a superuser reportedly gained unauthorized access to opponents' hole cards. The tighter policy protects players but also hits legitimate users of tracking tools, and could influence other operators.",
-    "url": "https://www.bettingnews.com/articles/poker/ggpoker-bans-huds-after-online-poker-superuser-scandal/",
-    "source": "Betting News",
-    "date": "2026-10-19"
+    "title": "WSOP Europe Main Event: Rekordfeld, Hengtao Zhu führt den Final Table an",
+    "summary": "Das WSOPE Main Event im King's Casino Prag zog mit 2,617 Entries das grösste offene Turnier und den reichsten €5,000+-Buy-in-Preispool der europäischen Geschichte an (€13.085 Mio.). Der Final Table steht, Hengtao Zhu führt die letzten neun Spieler an; dem Sieger winken €2 Mio. und ein Bracelet.",
+    "url": "https://somuchpoker.com/news/2026-wsope-main-event-final-table",
+    "source": "SoMuchPoker",
+    "date": "2026-10-16"
    },
    {
-    "title": "Adrian Mateos wins Poker Masters Event #5 and leads the Purple Jacket race",
-    "summary": "Spain's Adrian Mateos won the $10,500 No-Limit Hold'em Event #5 of the 2026 Poker Masters in Las Vegas for $229,500 from a $850,000 prize pool (85 entries). After bubbling three of the first four events, the win lifts him to the top of the Purple Jacket standings.",
-    "url": "https://www.hochgepokert.com/2026/10/18/adrian-mateos-poker-masters-sieg/",
-    "source": "HochgePokert",
-    "date": "2026-10-18"
+    "title": "WSOP Online vor Plattformwechsel: Caesars plant neues Pokerprodukt",
+    "summary": "Caesars, Betreiber von WSOP Online in den USA, bereitet laut einer Stellenausschreibung eine neue eigenständige Poker-App für iOS, Android und Web sowie Poker in Sportsbook und iCasino vor. Das könnte die seit 2013 bestehende Zusammenarbeit mit 888 als Technologiepartner beenden.",
+    "url": "https://pokerfuse.com/latest-news/2026/10/wsop-online-set-platform-change-these-are/",
+    "source": "Pokerfuse",
+    "date": "2026-10-15"
    },
    {
-    "title": "Poker Masters Event #6: Sean Winter leads final seven, $192,000 to the winner",
-    "summary": "In the $10,500 NLH Event #6 at the PokerGO Studio in the Aria, Las Vegas, Sean Winter led the last seven players with 1.405 million chips ahead of Victoria Livschitz. The event drew 64 entries and a $640,000 prize pool, with $192,000 for first; the Poker Masters run October 12-23.",
+    "title": "WSOP Super Circuit Rozvadov: 5 Mio. Euro Garantie",
+    "summary": "Das King's Resort in Rozvadov veranstaltet vom 28. Oktober bis 11. November 2026 den WSOP Super Circuit mit 18 Ring-Events und insgesamt 5 Mio. Euro Garantien. Das Main Event (3.000 Euro Buy-in) garantiert 2 Mio. Euro; der Spielplan umfasst laut PokerNews 88 Turniere inklusive Satellites.",
+    "url": "https://www.hochgepokert.com/2026/10/20/wsop-super-circuit-rozvadov/",
+    "source": "HochGepokert",
+    "date": "2026-10-20"
+   },
+   {
+    "title": "Poker Masters 2026: Sean Winter führt Finale von Event #6",
+    "summary": "Bei den Poker Masters im PokerGO Studio im Aria Las Vegas (12.–23. Oktober, zehn Events ab $10.500) führt Sean Winter die letzten sieben Spieler von Event #6 knapp vor Victoria Livschitz an. Der Sieger erhält $192.000 aus einem Preispool von $640.000; Adrian Mateos, Sieger von Event #5, schied an der Bubble aus.",
     "url": "https://www.hochgepokert.com/2026/10/19/poker-masters-2026-event-6/",
-    "source": "HochgePokert",
+    "source": "HochGepokert",
     "date": "2026-10-19"
    }
   ],
   "ai": [
    {
-    "title": "OpenAI and Google employees back rehearing of Anthropic's supply-chain risk case",
-    "summary": "Employees of OpenAI and Google filed a brief urging a US appeals court to rehear Anthropic's challenge to a government supply-chain risk designation. They argue the government could simply have cancelled its contract and instead \"recklessly invoked\" national-security powers meant to guard procurement against foreign adversaries, harming US AI competitiveness.",
+    "title": "Anthropic warns small AI models could soon copy themselves across home devices",
+    "summary": "Anthropic said in a blog post that small AI models are 'months away' from being able to replicate themselves across internet-connected devices such as smart ovens or Android TV boxes, making them hard to shut down since there is no central point to switch off. The company stresses there is not yet a 'fully rogue replicator', but agents are getting better at each step of the chain.",
+    "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+    "source": "CNBC",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "OpenAI and Google employees back rehearing of Anthropic's case against US supply-chain risk label",
+    "summary": "Employees of OpenAI and Google filed a brief supporting a US appeals court rehearing of Anthropic's challenge to a government supply-chain risk designation. They argue the punishment harms US AI competitiveness and that the government could simply have cancelled its contract instead of invoking national-security powers meant for foreign-adversary interference.",
     "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2540686",
     "source": "MLex",
     "date": "2026-10-20"
    },
    {
-    "title": "Congress weighs scrutiny of superintelligence companies as Trump sets AI and data-center position",
-    "summary": "With the midterms approaching, congressional leaders are weighing regulation, public-safety checks and ethical reviews of artificial-superintelligence developers, while Anthropic's CEO defended the company's safety record and sales to China. Fox News also reported Google adding OpenAI models to its cloud platform alongside Gemini and Claude.",
+    "title": "Meta ordered to pay New Mexico $25 billion over misleading consumers on data",
+    "summary": "A New Mexico judge ordered Meta to pay $25 billion after a jury found more than 43 million violations of state consumer-protection law in a case tied to the Cambridge Analytica data scandal; the attorney general says over 350,000 residents had data sold or brokered. Meta calls the ruling a 'tax on speech' and will appeal, as Congress weighs wider regulation of AI and Big Tech.",
     "url": "https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21",
     "source": "Fox News",
     "date": "2026-10-21"
    },
    {
-    "title": "OpenClaw 2026.10.10-beta.3 focuses on Windows reliability and upgrade recovery",
-    "summary": "The latest OpenClaw beta, published October 21, restores fresh-state initialization and Gateway startup on Windows, hides SQLite helper windows during app updates, and improves upgrade recovery for plugins and agent stores. It also prevents two agents from claiming the same agent database and fixes several Codex and native-app reply issues.",
-    "url": "https://www.gradually.ai/en/changelogs/openclaw/",
-    "source": "Gradually (GitHub releases)",
-    "date": "2026-10-21"
-   },
-   {
-    "title": "OpenClaw ecosystem digest: busy week, 30+ high-severity issues, workspace-safety fix in beta.2",
-    "summary": "A community digest reports 500 issues and 500 PRs updated in 24 hours on OpenClaw, with over 30 P0/P1 issues around session state, plugins and gateway reliability, especially on Windows and Linux. Beta v2026.10.10-beta.2 (Oct 20) stops multi-file apply_patch from modifying files when targets are missing or context mismatches.",
-    "url": "https://github.com/duanyytop/agents-radar/issues/3881",
-    "source": "agents-radar (GitHub)",
-    "date": "2026-10-20"
+    "title": "OpenClaw releases: 2026.10.10 beta focuses on Windows reliability and upgrade recovery",
+    "summary": "The OpenClaw GitHub releases page lists the 2026.10.10-beta.3 pre-release, with fixes for Windows Gateway startup, hidden SQLite helper windows during app updates and forced Gateway reinstalls. It also improves upgrade recovery by converging app-owned plugins to the new core version and restoring agent stores after schema-changing updates.",
+    "url": "https://github.com/openclaw/openclaw/releases",
+    "source": "GitHub (openclaw)",
+    "date": "2026-10-22"
    }
   ],
   "movies": [
    {
-    "title": "Documentary 'You Can See Everything' rivals 'Street Fighter' ahead of 'Clayface' weekend",
-    "summary": "A24's three-hour Elizabeth Holmes documentary by Nathan Fielder, You Can See Everything, won Wednesday's US box office with about $2.3 million and is heading for a $23.1 million five-day total after a surprise $15 million debut. Street Fighter leads with a $37.2 million domestic run, while the DC film Clayface eyes $45 million-plus worldwide.",
+    "title": "'You Can See Everything' wins Wednesday box office; can it beat 'Clayface'?",
+    "summary": "A24's three-hour Elizabeth Holmes documentary by Nathan Fielder and Lance Oppenheim won Wednesday with about $2.3M and a five-day total near $23.1M, expanding to roughly 2,600 theaters. DC's R-rated 'Clayface' opens Friday in 3,400 theaters with presales pointing to $20M+, so the weekend's No. 1 is too close to call.",
     "url": "https://deadline.com/2026/10/you-can-see-everything-clayface-box-office-1237168607/",
     "source": "Deadline",
     "date": "2026-10-22"
    },
    {
-    "title": "Esther McGregor and Emilio Sakraya cast as Violet and Xaden in Prime Video's 'Fourth Wing'",
-    "summary": "Prime Video's series adaptation of Rebecca Yarros' bestseller will star Esther McGregor (We Were Liars) as Violet Sorrengail and Emilio Sakraya (Those About to Die) as Xaden Riorson. Yarros thanked the team for a worldwide casting search.",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/fourth-wing-violet-xaden-esther-mcgregor-emilio-sakraya-1236733258/",
-    "source": "The Hollywood Reporter",
-    "date": "2026-10-21"
-   },
-   {
-    "title": "Idris Elba directs and stars in sci-fi survival thriller 'Above the Below'; first trailer released",
-    "summary": "Lionsgate released the first trailer for Above the Below, a short sci-fi survival thriller in which Idris Elba both stars and co-directs.",
-    "url": "https://movieweb.com/above-the-below-trailer/",
-    "source": "MovieWeb",
-    "date": "2026-10-20"
-   },
-   {
-    "title": "Jesse Eisenberg's 'The Debut' wins Middleburg audience award, fuels Oscar talk",
-    "summary": "The Debut, Jesse Eisenberg's third film as director starring Julianne Moore and Paul Giamatti, won the audience award at the Middleburg Film Festival (Oct. 15-18) in Virginia. The film premiered at Telluride to best-picture buzz.",
-    "url": "https://variety.com/2026/film/news/the-debut-middleburg-film-festival-audience-award-1236918937/",
+    "title": "'Tangles' trailer: Seth Rogen-produced animated Alzheimer's film",
+    "summary": "The animated feature 'Tangles', adapted from Sarah Leavitt's graphic memoir about her mother's early-onset Alzheimer's, released a new trailer after being picked up by Independent Film Company and Sapan Studio. The black-and-white film has a voice cast including Julia Louis-Dreyfus, Bryan Cranston, Abbi Jacobson and Seth Rogen.",
+    "url": "https://variety.com/2026/artisans/news/tangles-trailer-animation-alzheimers-seth-rogen-1236918154/",
     "source": "Variety",
     "date": "2026-10-21"
    }
   ],
   "axpo": [
    {
-    "title": "Axpo, Aargau and FiBL start building agri-PV research facility in Suhr",
-    "summary": "Axpo, the canton of Aargau and the Research Institute of Organic Agriculture (FiBL) broke ground on a 600 kWp agri-PV plant on arable land in Suhr, the second of three planned installations in the AgriSolar Research programme. FiBL will study how dual use affects farming, and all power will be bought by dairy processor Emmi.",
-    "url": "https://www.axpo.com/ch/en/newsroom/media-releases/2026/axpo--aargau-and-fibl-start-work-on-latest-agri-pv-research-faci.html",
-    "source": "Axpo",
+    "title": "Axpo: Forschungsanlage für Agri-Photovoltaik in Suhr gestartet",
+    "summary": "In Suhr AG fand der Spatenstich für eine Agri-PV-Forschungsanlage statt, die Axpo gemeinsam mit dem Kanton Aargau und dem FiBL betreibt. Die Anlage liefert Strom an den benachbarten Emmi-Standort und dient als Testfeld für Ertrag, Biodiversität und Bewirtschaftung.",
+    "url": "https://ch.headtopics.com/news/suhr-startschuss-fur-forschungsprojekt-zu-agri-solarstrom-88631051",
+    "source": "headtopics (Axpo-Medienmitteilung)",
     "date": "2026-10-09"
    },
    {
-    "title": "Axpo veröffentlicht Leitfaden zu auslaufenden Wasserkraftkonzessionen",
-    "summary": "Der Energiekonzern Axpo, nach eigenen Angaben grösste Wasserkraftproduzentin der Schweiz, hat einen Leitfaden für Kantone und Gemeinden publiziert, die über Heimfall oder Erneuerung auslaufender Konzessionen entscheiden müssen. Das Papier vergleicht Beteiligungsmodelle und Risiken; Wasserkraft liefert rund 60 Prozent des Schweizer Stroms.",
-    "url": "https://www.cash.ch/news/wasserkraftproduzentin-axpo-informiert-zu-auslaufenden-konzessionen-975110",
-    "source": "cash.ch (awp/sda)",
-    "date": "2026-10-08"
+    "title": "Axpo: Halbjahresergebnis 2025/26 mit bereinigtem EBIT von 836 Mio. CHF",
+    "summary": "Die Axpo-Gruppe erzielte im ersten Halbjahr des Geschäftsjahres 2025/26 (Oktober 2025–März 2026) trotz Turbulenzen am Energiemarkt wegen der Nahost-Krise ein bereinigtes EBIT von 836 Mio. CHF. Axpo liefert rund 40 Prozent des Schweizer Stroms und baut erneuerbare Energien sowie das internationale Gasgeschäft weiter aus.",
+    "url": "https://www.axpo.com/es/en/newsroom/media-releases/2026/axpo-strategy-delivers-strong-half-year-2025-26-results-amid-cha.html",
+    "source": "Axpo",
+    "date": "2026-05-28"
    }
   ]
  }
